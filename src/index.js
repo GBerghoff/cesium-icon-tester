@@ -1,18 +1,28 @@
-
-import { Cesium3DTileset, createWorldTerrain, IonResource, Viewer } from 'cesium';
+import { Viewer, Cartesian3, BillboardCollection} from "cesium";
 import "cesium/Build/Cesium/Widgets/widgets.css";
 import "./css/main.css";
+import Icon from './cesium.png';
 
-// This is simplified version of Cesium's Getting Started tutorial.
-// See https://cesium.com/docs/tutorials/getting-started/ for more details.
+var viewer = new Viewer("cesiumContainer", {});
 
-var viewer = new Viewer('cesiumContainer', {
-    terrainProvider: createWorldTerrain()
-});
+// hide the cesium timeline and animation
+viewer.animation.container.style.visibility = "hidden";
+viewer.timeline.container.style.visibility = "hidden";
+viewer.forceResize();
 
-var tileset = new Cesium3DTileset({
-    url: IonResource.fromAssetId(40866)
-});
+// Random billboards
+window.setInterval(addRandomPoint, 2500);
 
-viewer.scene.primitives.add(tileset);
-viewer.zoomTo(tileset);
+function addRandomPoint() {
+    viewer.entities.add({
+        position: Cartesian3.fromDegrees(randomNumber(-90,90),randomNumber(-180, 180)),
+        billboard: {
+            image: Icon,
+            scale: .5,
+        },
+    });
+}
+
+function randomNumber(min, max) {
+    return Math.random() * (max - min) + min;
+}
