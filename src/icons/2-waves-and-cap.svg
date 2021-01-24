@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 512 581" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1.00671,1.35003e-13,0)">
+        <g transform="matrix(1.24878,0,0,0.722424,-38.7122,-5.77939)">
+            <rect x="31" y="8" width="410" height="55"/>
+        </g>
+        <g transform="matrix(0.8,0,0,0.680272,-18.4,-21.4776)">
+            <rect x="23" y="89" width="50" height="147"/>
+        </g>
+        <g transform="matrix(0.8,0,0,0.680272,453.6,-21.4776)">
+            <rect x="23" y="89" width="50" height="147"/>
+        </g>
+    </g>
+    <g transform="matrix(-4.20972e-17,-0.6875,-0.6875,4.20972e-17,530.239,432)">
+        <g transform="matrix(0.466687,-0.466687,0.548543,0.548543,-88.0455,154.405)">
+            <rect x="10" y="152" width="318" height="75"/>
+        </g>
+        <g transform="matrix(-0.466687,-0.466687,-0.548543,0.548543,170.955,154.405)">
+            <rect x="10" y="152" width="318" height="75"/>
+        </g>
+        <g transform="matrix(-0.466687,0.466687,-0.548543,-0.548543,61.8637,204.563)">
+            <rect x="10" y="152" width="318" height="75"/>
+        </g>
+        <g transform="matrix(0.466687,0.466687,0.548543,-0.548543,19.2561,205.111)">
+            <rect x="10" y="152" width="318" height="75"/>
+        </g>
+        <g transform="matrix(-0.466687,-0.466687,-0.548543,0.548543,600.045,154.405)">
+            <rect x="10" y="152" width="318" height="75"/>
+        </g>
+        <g transform="matrix(-0.466687,0.466687,-0.548543,-0.548543,492.744,205.111)">
+            <rect x="10" y="152" width="318" height="75"/>
+        </g>
+    </g>
+    <g transform="matrix(4.20972e-17,-0.6875,0.6875,4.20972e-17,-18.2387,432)">
+        <g transform="matrix(0.466687,-0.466687,0.548543,0.548543,-88.0455,154.405)">
+            <rect x="10" y="152" width="318" height="75"/>
+        </g>
+        <g transform="matrix(0.466687,0.466687,0.548543,-0.548543,19.2561,205.111)">
+            <rect x="10" y="152" width="318" height="75"/>
+        </g>
+        <g transform="matrix(0.466687,0.466687,0.548543,-0.548543,19.2561,205.111)">
+            <rect x="10" y="152" width="318" height="75"/>
+        </g>
+        <g transform="matrix(-0.466687,-0.466687,-0.548543,0.548543,169.621,154.405)">
+            <rect x="10" y="152" width="318" height="75"/>
+        </g>
+        <g transform="matrix(-0.466687,0.466687,-0.548543,-0.548543,62.3198,205.111)">
+            <rect x="10" y="152" width="318" height="75"/>
+        </g>
+        <g transform="matrix(-0.466687,-0.466687,-0.548543,0.548543,600.045,154.405)">
+            <rect x="10" y="152" width="318" height="75"/>
+        </g>
+        <g transform="matrix(-0.466687,0.466687,-0.548543,-0.548543,492.744,205.111)">
+            <rect x="10" y="152" width="318" height="75"/>
+        </g>
+    </g>
+</svg>
